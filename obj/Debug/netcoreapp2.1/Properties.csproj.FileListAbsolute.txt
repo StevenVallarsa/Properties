@@ -1,0 +1,11 @@
+/Users/Steve/Projects/Properties/obj/Debug/netcoreapp2.1/Properties.csprojAssemblyReference.cache
+/Users/Steve/Projects/Properties/obj/Debug/netcoreapp2.1/Properties.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/Properties/obj/Debug/netcoreapp2.1/Properties.AssemblyInfoInputs.cache
+/Users/Steve/Projects/Properties/obj/Debug/netcoreapp2.1/Properties.AssemblyInfo.cs
+/Users/Steve/Projects/Properties/bin/Debug/netcoreapp2.1/Properties.deps.json
+/Users/Steve/Projects/Properties/bin/Debug/netcoreapp2.1/Properties.runtimeconfig.json
+/Users/Steve/Projects/Properties/bin/Debug/netcoreapp2.1/Properties.runtimeconfig.dev.json
+/Users/Steve/Projects/Properties/bin/Debug/netcoreapp2.1/Properties.dll
+/Users/Steve/Projects/Properties/bin/Debug/netcoreapp2.1/Properties.pdb
+/Users/Steve/Projects/Properties/obj/Debug/netcoreapp2.1/Properties.dll
+/Users/Steve/Projects/Properties/obj/Debug/netcoreapp2.1/Properties.pdb
